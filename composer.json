@@ -1,0 +1,11 @@
+{
+    "require": {
+        "helicon/object-mapper": "^0.0.2",
+        "nesbot/carbon": "^2.25"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kojirock5260\\": "src/"
+        }
+    }
+}
